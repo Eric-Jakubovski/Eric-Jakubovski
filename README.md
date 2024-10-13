@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @EricJakubovski
-- 👀 I’m interested in Java & C++
-- 🌱 I’m currently learning how to code
