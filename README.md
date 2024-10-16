@@ -1,3 +1,3 @@
 - 👋 Hi I am @Eric-Jakubovski
-- 👀 I am interested in Java & C++
-- 🌱 I am currently learning how to code & messing around with Unity Engine
+- 👀 I am interested in Java, C++, & C#
+- 🌱 I am currently messing around with Unity Engine
